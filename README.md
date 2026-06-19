@@ -21,8 +21,9 @@ Actively seeking an **IT Internship** or **Software Development Internship** to 
   <a href="https://instagram.com/caua.med3iros">
     <img src="https://img.shields.io/badge/Instagram-@caua.med3iros-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/cauãmedeiros">
-    <img src="https://img.shields.io/badge/LinkedIn-Cauã Medeiros-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/cauãmedeiros" />
+  <a href="https://www.linkedin.com/in/cauãmedeiros">
+    <img src="https://img.shields.io/badge/LinkedIn-Cauã%20Felipe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   </a>
 </p>
 
